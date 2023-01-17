@@ -1,0 +1,32 @@
+HTML( HyperText Markup Language) es el codigo que se utiliza para estructurar y deslegar una pagina 
+Hypertexto -- Hace referencia a los enlaces que conectan paginas web entre si 
+Marcado  --Es la forma de codificar un elemento que junto con el texto incorpora etiquetas
+
+No es  un lenguaje de programacion porque no hay operadores logicos no hay un proceso que ejecute HTML 
+
+(Que es) (Para que sirve) (como funciona)
+
+
+*******Etiquetas Semanticas *******
+
+    Header ->Encabezado donde se engloba una serie de instrucciones al navegador 
+    Nav ->Es un conjunto de redireccionamientos a paginas del mismo programa o a otras paginas web 
+    Main -> Contenido principal 
+    section ->Segmento del contenido principal
+    Article -> segmento de una sesion 
+    Aside -> Nos ayuda asignar informacion complementaria de nuestra pagina 
+    Footer -> Pie de pagina
+
+*********Diferencia entre section u article *******
+
+    Una section es un agrupamiento de contenido, normalmente con un encabezado
+    Article es un agruoamiento que especifica contenido independiente y autonomo 
+
+Hay 2 tipos de elementos:
+
+    *Bloque 
+    *Linea
+
+EXT lighthouse para un navegador e inspeccionar las paginas 
+
+SEO Search Engine Optimization, que significa "optimización para motores de búsqueda"

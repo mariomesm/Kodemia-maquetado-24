@@ -1,0 +1,18 @@
+article {
+    width: 33%;
+    background-color: gray;
+}
+
+body {
+    height: 300vh;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(164, 5, 37, 1) 65%, rgba(179, 5, 29, 1) 68%, rgba(0, 212, 255, 1) 100%);
+}
+
+.container {
+    width: 70%;
+    height: 50vh;
+    border: 3px solid black;
+}
+.container.yellow{
+    border: 2px solid yellow;
+}

@@ -1,0 +1,46 @@
+La semantica  de SEO la podemos utilizar para temas de produccion 
+
+Span -> Crear una división 
+
+            Box Model
+          
+      +++++++++++++++++++++++++++     
+      +-------------------------+    
+      +-///////////////////////-+      
+      +-/*********************/-+
+      +-/*    contenido      */-+
+      +-/*********************/-+
+      +- //////////////////////-+       
+      +-------------------------+                
+      +++++++++++++++++++++++++++  
+
+content-box(contenido * ) -> Siempre se ajustara al contenido
+paddin ( / ) -> Es el espacio que hay entre el borde y el contenido
+border-box(borde - ) -> Es el borde que contenien el margen y el contenido
+margin (+)-> Es un espacio existente entre dos elementos adyacentes
+
+Los elementos en bloque se expanden en todo el ancho del viewport
+Mientas que los elementos en linea se ajustan al contenido
+
+La posición por defecto estan en static 
+
+
+*****Posicionamiento******
+
+initial
+inherit -> por herencia 
+unset -> resetear el valor 
+estatic-> valor por defecto 
+
+Relative -> Permite posicionar el elementocon respecto a si mismo mediante 
+            el viewport
+Absolute ->Se ubica con respecto al elemento relativo padre mas cercano, 
+           si no hay elementos se va con el scroll
+Fixed ->El elemento es removido del flujo normal, se ubica con respecto al 
+        viewport, se mantiene fijo en su possición mientras el usuario se 
+        desplaza dentro de la pagina scroll
+sticky ->Mezcla entre relative y fixed, cuando hay scrooll se posiciona 
+        al contenedor mas cercana, se activan las propiedades, TOP, LEFT
+        RIGHT, BOTTOM.
+
+
