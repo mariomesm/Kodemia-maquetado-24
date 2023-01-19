@@ -1,0 +1,41 @@
+Media Queries y Responsividad 
+
+* www -> agnostica
+* Diferentes tipos de dispositivos 
+    -computadoras de escritorio 
+    -portatiles
+    -Tabletas 
+
+Diseño responsivo 
+
+*Diseño de ancho fijo - fixed-width Se diseña con la idea de que sea fija la pagina web 
+
+*Diseños liquidos -> liquid layouts   se diseñan con la idea en mente de que se expandan hasta ocupar el total 
+disponible de pantalla del dispositivo que renderiza la página web.
+
+*Pantallas pequeñas
+
+*sitios separados -> antes mandaba a subdominios para los dispositivos especificos 
+
+*Diseños adaptables - Adaptative layouts
+
+
+Mobile First
+
+-Filosofia de diseño de interfaces de usuario(UI) su objetivo es crear mejores practicas
+
+view port
+
+Dara al navegadro instrucciones sobre como controlar las dimensiones y la escala de la pagina 
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+viewport->es el área visible del usuario de un sitio web.
+
+media Queries
+Existen a partir de css3
+
+   ---@media
+   ---Medios 
+   ---Breakpoints 
+

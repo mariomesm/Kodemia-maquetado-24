@@ -1,0 +1,30 @@
+/* mobile */
+/* @media all and (max-width: 425px){
+    body {
+        background-color: peru;
+    }
+} */
+.circle{
+    height: 400px;
+    width: 400px;
+    border-radius: 100%;
+    background-color: aqua;
+}
+@media screen and (max-width: 425px){
+    body {
+        background-color: peru;
+    }
+}
+/* Tablet */
+@media screen and (min-width: 426px ) and (max-width:768px){
+    body{
+        background-color: hotpink;
+    }
+}
+/* Desktop */
+@media screen and (min-width:768px){
+    body{
+        background-color: crimson;
+    }
+}
+

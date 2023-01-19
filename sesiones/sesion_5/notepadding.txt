@@ -1,0 +1,18 @@
+transition  valor 
+
+valor es el tiempo que va a tener para realizar 
+los cambios 
+
+transition: ease -> empieza lento, acelera y termina lento
+                    empieza lento, termina rapido
+                    empieza rapido, termina lento
+
+
+
+Tipos de selectores 
+
+****Selector por elemtento  div{todos los div}
+****Selector por conjuncion div.row{deve de cumplir que tenga el selector div y la clase row}
+****Selector por anidacion o descendiente  .container .row{contenedor y todas las clases que tengan la clase row}
+**** Selector por seudoclase 
+**** Selector´por seudoclase exclusion
